@@ -17,4 +17,4 @@ This guide outlines key controls defenders should implement to secure firmware.
 ## Defensive Operations
 - Automate firmware compliance checks.
 - Maintain inventory of firmware versions.
-- Validate supply chain firmware integrity.
+- Validate supply chain firmware integrity
